@@ -10,6 +10,7 @@ resource "google_compute_firewall" "islands-in" {
   direction = "INGRESS"
   priority = "65534"
   source_ranges = ["0.0.0.0/0"]
+  # oak9: Explicitly define source IP addresses for ingress rules
   target_tags = ["island"]
 }
 
