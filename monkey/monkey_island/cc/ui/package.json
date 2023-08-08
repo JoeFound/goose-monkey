@@ -73,7 +73,7 @@
     "@mui/material": "^5.13.5",
     "@mui/x-data-grid": "^6.7.0",
     "@rjsf/bootstrap-4": "^5.8.1",
-    "@rjsf/core": "^5.8.1",
+    "@rjsf/core": "^5.10.0",
     "@rjsf/utils": "^5.8.1",
     "@rjsf/validator-ajv8": "^5.8.1",
     "@types/react-router-dom": "^5.3.3",
